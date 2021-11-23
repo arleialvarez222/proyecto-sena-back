@@ -1,0 +1,12 @@
+D:\DOCUMENTOS\Gupo ADSI\SenaAPI\WebAPISena\Sena.core\bin\Debug\net5.0\Sena.core.deps.json
+D:\DOCUMENTOS\Gupo ADSI\SenaAPI\WebAPISena\Sena.core\bin\Debug\net5.0\Sena.core.dll
+D:\DOCUMENTOS\Gupo ADSI\SenaAPI\WebAPISena\Sena.core\bin\Debug\net5.0\ref\Sena.core.dll
+D:\DOCUMENTOS\Gupo ADSI\SenaAPI\WebAPISena\Sena.core\bin\Debug\net5.0\Sena.core.pdb
+D:\DOCUMENTOS\Gupo ADSI\SenaAPI\WebAPISena\Sena.core\obj\Debug\net5.0\Sena.core.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOCUMENTOS\Gupo ADSI\SenaAPI\WebAPISena\Sena.core\obj\Debug\net5.0\Sena.core.AssemblyInfoInputs.cache
+D:\DOCUMENTOS\Gupo ADSI\SenaAPI\WebAPISena\Sena.core\obj\Debug\net5.0\Sena.core.AssemblyInfo.cs
+D:\DOCUMENTOS\Gupo ADSI\SenaAPI\WebAPISena\Sena.core\obj\Debug\net5.0\Sena.core.csproj.CoreCompileInputs.cache
+D:\DOCUMENTOS\Gupo ADSI\SenaAPI\WebAPISena\Sena.core\obj\Debug\net5.0\Sena.core.dll
+D:\DOCUMENTOS\Gupo ADSI\SenaAPI\WebAPISena\Sena.core\obj\Debug\net5.0\ref\Sena.core.dll
+D:\DOCUMENTOS\Gupo ADSI\SenaAPI\WebAPISena\Sena.core\obj\Debug\net5.0\Sena.core.pdb
+D:\DOCUMENTOS\Gupo ADSI\SenaAPI\WebAPISena\Sena.core\obj\Debug\net5.0\Sena.core.csprojAssemblyReference.cache
